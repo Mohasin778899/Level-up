@@ -5,3 +5,8 @@ protobuf-decoder
 protobuf
 requests
 aiohttp
+urllib3
+PyJWT
+psutil
+pytz
+python-cfonts
